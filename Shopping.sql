@@ -217,12 +217,12 @@ insert into [Account] values
 go
 
 insert into [Category] values
-	(1, 'Jacket', '../1Layout/img/categories/cat-1.jpg'),
-	(2, 'Sweater', '../1Layout/img/categories/cat-2.jpg'),
-	(3, 'Men_T-Shirt', '../1Layout/img/categories/cat-3.jpg'),
-	(4, 'Men_Jeans', '../1Layout/img/categories/cat-4.jpg'),
-	(5, 'Women_Jeans', '../1Layout/img/categories/cat-5.jpg'),
-	(6, 'Women_Croptop', '../1Layout/img/categories/cat-6.jpg')
+	(1, 'Jacket', '../images/categories/cat-1.jpg'),
+	(2, 'Sweater', '../images/categories/cat-2.jpg'),
+	(3, 'Men_T-Shirt', '../images/categories/cat-3.jpg'),
+	(4, 'Men_Jeans', '../images/categories/cat-4.jpg'),
+	(5, 'Women_Jeans', '../images/categories/cat-5.jpg'),
+	(6, 'Women_Croptop', '../images/categories/cat-6.jpg')
 go
 
 insert into [Customer] values
@@ -401,9 +401,3 @@ go
 		-- Croptop (6) has 3 items ( oversize )
 						-- quantity:	99,			 30,		20
 						-- price:	150.000,	220.000,	180.000	
-
-
-
-
-
-
