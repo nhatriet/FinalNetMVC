@@ -1,4 +1,5 @@
-﻿<!DOCTYPE html>
+﻿
+<!DOCTYPE html>
 <html lang="zxx">
 
 <head>
@@ -33,7 +34,7 @@
     <div class="humberger__menu__overlay"></div>
     <div class="humberger__menu__wrapper">
         <div class="humberger__menu__logo">
-            <a href="#"><img src="../images/logo.png" alt=""></a>
+            <a href="#"><img src="../images/euphoria-logo/euphoria-logo.png" alt=""></a>
         </div>
         <div class="humberger__menu__cart">
             <ul>
@@ -49,9 +50,8 @@
         </div>
         <nav class="humberger__menu__nav mobile-menu">
             <ul>
-                <li class="active"><a href="./index.html">Home</a></li>
-                <li>
-                    <a href="./shop-grid.html">Shop</a>
+                <li class="active">
+                    <a href="~/Home">Shop</a>
                     <ul class="header__menu__dropdown">
                         <li><a href="./shop-details.html">Jacket</a></li>
                         <li><a href="./shoping-cart.html">Sweater</a></li>
@@ -72,8 +72,8 @@
                     </ul>
                 </li>
                 <li><a href="./event.html">Event</a></li>
-                <li><a href="./blog.html">Blog</a></li>
-                <li><a href="./contact.html">Contact</a></li>
+                <li><a href="./event.html">About us</a></li>
+                <li><a href="~/Contact/Contact">Contact</a></li>
             </ul>
         </nav>
         <div id="mobile-menu-wrap"></div>
@@ -124,15 +124,14 @@
             <div class="row">
                 <div class="col-lg-3">
                     <div class="header__logo">
-                        <a href="./index.html"><img src="../1Layout/img/logo.png" alt=""></a>
+                        <a href="./index.html"><img src="../images/euphoria-logo/euphoria-logo.png" alt=""></a>
                     </div>
                 </div>
                 <div class="col-lg-6">
                     <nav class="header__menu">
                         <ul>
-                            <li class="active"><a href="./index.html">Home</a></li>
-                            <li>
-                                <a href="./shop-grid.html">Shop</a>
+                            <li class="active">
+                                <a href="~/Home">Shop</a>
                                 <ul class="header__menu__dropdown">
                                     <li><a href="./shop-details.html">Jacket</a></li>
                                     <li><a href="./shoping-cart.html">Sweater</a></li>
@@ -153,8 +152,8 @@
                                 </ul>
                             </li>
                             <li><a href="./event.html">Event</a></li>
-                            <li><a href="./blog.html">Blog</a></li>
-                            <li><a href="./contact.html">Contact</a></li>
+                            <li><a href="./event.html">About us</a></li>
+                            <li><a href="~/Contact/Contact">Contact</a></li>
                         </ul>
                     </nav>
                 </div>
@@ -181,12 +180,8 @@
                 @await Component.InvokeAsync("CategoryMenu")
                 <div class="col-lg-9">
                     <div class="hero__search">
-                        <div class="hero__search__form">
+                        <div class="hero__search__form" style="width: 580px">
                             <form action="#">
-                                <div class="hero__search__categories">
-                                    All Categories
-                                    <span class="arrow_carrot-down"></span>
-                                </div>
                                 <input type="text" placeholder="What do you need?">
                                 <button type="submit" class="site-btn">SEARCH</button>
                             </form>
@@ -282,9 +277,9 @@
     </section>
     <!-- Featured Section End -->
     <!-- Banner Begin -->
-    <div class="banner">
+@*    <div class="banner">
         <div class="container">
-            <div class="row">
+            <div class="row" style="padding-bottom: 20px">
                 <div class="col-lg-6 col-md-6 col-sm-6">
                     <div class="banner__pic">
                         <img src="../images/banner/banner-1.jpg" alt="">
@@ -297,10 +292,10 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div>*@
     <!-- Banner End -->
     <!-- Latest Product Section Begin -->
-    <section class="latest-product spad">
+@*    <section class="latest-product spad">
         <div class="container">
             <div class="row">
                 <div class="col-lg-4 col-md-6">
@@ -500,10 +495,10 @@
                 </div>
             </div>
         </div>
-    </section>
+    </section>*@
     <!-- Latest Product Section End -->
     <!-- Blog Section Begin -->
-    <section class="from-blog spad">
+@*    <section class="from-blog spad">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
@@ -560,7 +555,7 @@
                 </div>
             </div>
         </div>
-    </section>
+    </section>*@
     <!-- Blog Section End -->
     <!-- Footer Section Begin -->
     <footer class="footer spad">
@@ -569,7 +564,7 @@
                 <div class="col-lg-3 col-md-6 col-sm-6">
                     <div class="footer__about">
                         <div class="footer__about__logo">
-                            <a href="#"><img src="../images/logo.png" alt=""></a>
+                            <a href="#"><img src="../images/euphoria-logo/euphoria-logo.png" alt=""></a>
                         </div>
                         <ul>
                             <li>Address: 280 An Duong Vuong, Ward 4, Distric 5, Ho Chi Minh City</li>
@@ -583,7 +578,6 @@
                         <h6>Useful Links</h6>
                         <ul>
                             <li><a href="#">About Us</a></li>
-                            <li><a href="#">About Our Shop</a></li>
                             <li><a href="#">Secure Shopping</a></li>
                             <li><a href="#">Delivery infomation</a></li>
                             <li><a href="#">Privacy Policy</a></li>
@@ -592,7 +586,6 @@
                         <ul>
                             <li><a href="#">Who We Are</a></li>
                             <li><a href="#">Our Services</a></li>
-                            <li><a href="#">Projects</a></li>
                             <li><a href="#">Contact</a></li>
                             <li><a href="#">Innovation</a></li>
                         </ul>
