@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "B1UNh9UOEyuPv45n9d2s+qHuHqpSkH6PUHmcdIx+Fl4=",
+  "Hash": "IkDacVtc9sUIQ746e5s6d6NBEPubVFGqdocNkgxqD3E=",
   "Source": "EuphoriaShop",
   "BasePath": "_content/EuphoriaShop",
   "Mode": "Default",
@@ -1598,12 +1598,12 @@
       "OriginalItemSpec": "wwwroot\\images\\categories\\cat-6.jpg"
     },
     {
-      "Identity": "C:\\Users\\thanh\\OneDrive\\Tài liệu\\Workspace\\net\\EuphoriaShop\\wwwroot\\images\\logo.png",
+      "Identity": "C:\\Users\\thanh\\OneDrive\\Tài liệu\\Workspace\\net\\EuphoriaShop\\wwwroot\\images\\euphoria-logo\\euphoria-logo.png",
       "SourceId": "EuphoriaShop",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\thanh\\OneDrive\\Tài liệu\\Workspace\\net\\EuphoriaShop\\wwwroot\\",
       "BasePath": "_content/EuphoriaShop",
-      "RelativePath": "images/logo.png",
+      "RelativePath": "images/euphoria-logo/euphoria-logo.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1612,7 +1612,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\logo.png"
+      "OriginalItemSpec": "wwwroot\\images\\euphoria-logo\\euphoria-logo.png"
     },
     {
       "Identity": "C:\\Users\\thanh\\OneDrive\\Tài liệu\\Workspace\\net\\EuphoriaShop\\wwwroot\\images\\product\\1\\White-Slyteam-Jacket-Front-1000x1250.jpg",

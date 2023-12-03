@@ -48,6 +48,7 @@ namespace EuphoriaShop.Controllers
             ViewBag.anhSanPham = anhSanPham;
             return View(sanPham);
         }
+
         public IActionResult Privacy()
         {
             return View();
