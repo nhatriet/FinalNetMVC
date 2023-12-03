@@ -1,4 +1,4 @@
-﻿create database Shopping
+create database Shopping
 
 use Shopping
 go
@@ -373,37 +373,3 @@ insert into [ProductSize] values
 	(53, 17, 5, 30, 220000),
 	(54, 18, 5, 20, 180000)
 go 
-
-
-
--- ================================================================================================================================================================
--- Jacket (1) has 3 items 
-		-- quantity:	50,			 90,		 30
-		-- price:	220.000,	300.000,	450.000	
-
--- Sweater (2) has 3 items ( oversize )
-		-- quantity:	25,			 50,		 70
-		-- price:	450.000,	500.000,	480.000
-		
--- Men
-		-- T-Shirt (3) has 3 items 
-					-- quantity:	30,			 100,		 90
-					-- price:	300.000,	320.000,	380.000	
-
-		-- Jeans (4) has 3 items 
-						-- quantity:	40,			 80,		200
-						-- price:	550.000,	580.000,	500.000	
--- Women
-		-- Jeans (5) has 3 items
-						-- quantity:	30,			 150,		85
-						-- price:	480.000,	580.000,	600.000	
-
-		-- Croptop (6) has 3 items ( oversize )
-						-- quantity:	99,			 30,		20
-						-- price:	150.000,	220.000,	180.000	
-
-
-
-
-
-
