@@ -12,6 +12,7 @@ var DbConnection = builder.Configuration.GetConnectionString("ShoppingContext");
 builder.Services.AddDbContext<ShoppingContext>(op => op.UseSqlServer(builder.Configuration.GetConnectionString("DbConnection")));
 
 builder.Services.AddScoped<ICategoryRepo, CategoryRepository>();
+builder.Services.AddSession();
 
 var app = builder.Build();
 
@@ -23,12 +24,14 @@ if (!app.Environment.IsDevelopment())
     app.UseHsts();
 }
 
+
 app.UseHttpsRedirection();
 app.UseStaticFiles();
 
 app.UseRouting();
 
 app.UseAuthorization();
+app.UseSession();
 
 app.MapControllerRoute(
     name: "default",

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "PTkqwm1eQeYaTUWTfBpc+2v9VBBfobblqH6TcDm8cn1NVH80IXQsLXJ/srqP7nN08D/C+UOa2zqjxK7QHlhGtQ==",
+  "dgSpecHash": "UYueJJVhJUxh6uem3gkdKTyqqVENolXfxEAOxSQGma1oSzQy3bU21cvJJnJtLj7HC6KmrCAxs3IvER+GTtNOCQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\thanh\\OneDrive\\Tài liệu\\Workspace\\net\\EuphoriaShop\\EuphoriaShop.csproj",
   "expectedPackageFiles": [
@@ -88,6 +88,7 @@
     "C:\\Users\\thanh\\.nuget\\packages\\microsoft.aspnetcore.responsecaching.abstractions\\2.0.0\\microsoft.aspnetcore.responsecaching.abstractions.2.0.0.nupkg.sha512",
     "C:\\Users\\thanh\\.nuget\\packages\\microsoft.aspnetcore.routing\\2.0.0\\microsoft.aspnetcore.routing.2.0.0.nupkg.sha512",
     "C:\\Users\\thanh\\.nuget\\packages\\microsoft.aspnetcore.routing.abstractions\\2.0.0\\microsoft.aspnetcore.routing.abstractions.2.0.0.nupkg.sha512",
+    "C:\\Users\\thanh\\.nuget\\packages\\microsoft.aspnetcore.session\\2.2.0\\microsoft.aspnetcore.session.2.2.0.nupkg.sha512",
     "C:\\Users\\thanh\\.nuget\\packages\\microsoft.aspnetcore.webutilities\\2.2.0\\microsoft.aspnetcore.webutilities.2.2.0.nupkg.sha512",
     "C:\\Users\\thanh\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\5.0.0\\microsoft.bcl.asyncinterfaces.5.0.0.nupkg.sha512",
     "C:\\Users\\thanh\\.nuget\\packages\\microsoft.build\\17.3.2\\microsoft.build.17.3.2.nupkg.sha512",

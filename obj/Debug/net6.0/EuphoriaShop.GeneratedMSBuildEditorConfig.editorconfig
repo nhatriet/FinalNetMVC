@@ -15,8 +15,16 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\thanh\OneDrive\Tài liệu\Workspace\net\EuphoriaShop
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/thanh/OneDrive/Tài liệu/Workspace/net/EuphoriaShop/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9MYXlvdXRBZG1pbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/thanh/OneDrive/Tài liệu/Workspace/net/EuphoriaShop/Views/About/About.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWJvdXRcQWJvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thanh/OneDrive/Tài liệu/Workspace/net/EuphoriaShop/Views/Access/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjZXNzXExvZ2luLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/thanh/OneDrive/Tài liệu/Workspace/net/EuphoriaShop/Views/Contact/Contact.cshtml]
@@ -29,6 +37,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/thanh/OneDrive/Tài liệu/Workspace/net/EuphoriaShop/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thanh/OneDrive/Tài liệu/Workspace/net/EuphoriaShop/Views/Home/LatestProduct.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxMYXRlc3RQcm9kdWN0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/thanh/OneDrive/Tài liệu/Workspace/net/EuphoriaShop/Views/Home/Privacy.cshtml]

@@ -401,9 +401,3 @@ go
 		-- Croptop (6) has 3 items ( oversize )
 						-- quantity:	99,			 30,		20
 						-- price:	150.000,	220.000,	180.000	
-
-
-
-
-
-

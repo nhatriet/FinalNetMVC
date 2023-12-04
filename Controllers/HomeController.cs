@@ -1,8 +1,13 @@
-﻿using EuphoriaShop.Models;
+﻿using System;
+using System.Text;
+using System.Collections.Generic;
+using EuphoriaShop.Models;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using System.Diagnostics;
 using X.PagedList;
+using System.Security.Cryptography;
+
 
 namespace EuphoriaShop.Controllers
 {
@@ -16,15 +21,14 @@ namespace EuphoriaShop.Controllers
         }
 
         ShoppingContext db = new ShoppingContext();
-/*
-        private readonly ILogger<HomeController> _logger;
+        /*
+                private readonly ILogger<HomeController> _logger;
 
-        public HomeController(ILogger<HomeController> logger)
-        {
-            _logger = logger;
-        }*/
-
-        public IActionResult Index(int ?page)
+                public HomeController(ILogger<HomeController> logger)
+                {
+                    _logger = logger;
+                }*/
+        public IActionResult Index(int? page)
         {
             int pageSize = 8;
             int pageNumber = page == null || page < 0 ? 1 : page.Value;
