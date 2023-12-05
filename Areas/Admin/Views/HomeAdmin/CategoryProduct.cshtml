@@ -1,0 +1,66 @@
+﻿@using EuphoriaShop.Models
+@using X.PagedList.Mvc.Core;
+@model X.PagedList.IPagedList<Category>
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@addTagHelper *, AuthoringTagHelpers
+@{
+    ViewData["Title"] = "CategoryProduct";
+    Layout = "~/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<h1>Danh mục</h1>
+
+<p>
+    <a class="btn-primary btn" asp-action="ThemDanhMuc">Thêm danh mục</a>
+</p>
+
+<form class="form-inline">
+    <div class="input-group">
+        <input type="text" class="form-control mb-2 mr-sm-2" name="searchString" placeholder="Nhập tên danh mục">
+        <button type="submit" class="btn btn-primary mb-2">Tìm</button>
+    </div>
+</form>
+
+<p>
+    @TempData["Message"]
+</p>
+
+<table class="table table-warning">
+    <thead>
+        <tr>
+            <th>
+               Tên danh mục
+            </th>
+            
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr class="table-success">
+            <td>
+                @Html.DisplayFor(modelItem => item.CategoryName)
+            </td>
+            <td class="text-end">
+                <a class="btn btn-dark" asp-action="SuaDanhMuc" asp-route-id="@item.CategoryId">Sửa</a>
+                    <a class="btn btn-danger" asp-action="XoaDanhMuc" asp-route-id="@item.CategoryId">Xoá</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
+
+<div>
+    @Html.PagedListPager(Model, page => Url.Action("CategoryProduct", new
+        {
+            page = page
+        }),
+            new PagedListRenderOptions
+    {
+        DisplayLinkToIndividualPages = true,
+        DisplayPageCountAndCurrentLocation = false,
+        MaximumPageNumbersToDisplay = 10,
+        LiElementClasses = new string[] { "page-item" },
+        PageClasses = new string[] { "page-link" },
+    })
+</div>

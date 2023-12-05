@@ -1,0 +1,78 @@
+﻿@model EuphoriaShop.Models.Product
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@addTagHelper *, AuthoringTagHelpers
+@{
+    ViewData["Title"] = "Thêm sản phẩm";
+    Layout = "~/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<h1>Thêm sản phẩm</h1>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form method="post" asp-action="ThemSanPham">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <input type="hidden" asp-for="ProductId" class="form-control" value="@ViewBag.ProductId" />
+                <span asp-validation-for="ProductId" class="text-danger"></span>
+            </div>  
+            <div class="form-group">
+                <label asp-for="CategoryId" class="control-label"></label>
+                <select asp-for="CategoryId" class ="form-control" asp-items="ViewBag.CategoryId"></select>
+            </div>
+            <div class="form-group">
+                <label asp-for="ProductName" class="control-label"></label>
+                <input asp-for="ProductName" class="form-control" />
+                <span asp-validation-for="ProductName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ProductImgPreview" class="control-label"></label>
+                <input asp-for="ProductImgPreview" class="form-control" />
+                <span asp-validation-for="ProductImgPreview" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ShortDescription" class="control-label"></label>
+                <input asp-for="ShortDescription" class="form-control" />
+                <span asp-validation-for="ShortDescription" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Description" class="control-label"></label>
+                <input asp-for="Description" class="form-control" />
+                <span asp-validation-for="Description" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Quantity" class="control-label"></label>
+                <input asp-for="Quantity" class="form-control" />
+                <span asp-validation-for="Quantity" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="PricePreview" class="control-label"></label>
+                <input asp-for="PricePreview" class="form-control" />
+                <span asp-validation-for="PricePreview" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Weight" class="control-label"></label>
+                <input asp-for="Weight" class="form-control" />
+                <span asp-validation-for="Weight" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Dimensions" class="control-label"></label>
+                <input asp-for="Dimensions" class="form-control" />
+                <span asp-validation-for="Dimensions" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Materials" class="control-label"></label>
+                <input asp-for="Materials" class="form-control" />
+                <span asp-validation-for="Materials" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Thêm sản phẩm" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="DanhMucSanPham" asp-area="Admin">Trở về</a>
+</div>
+
