@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata;
@@ -30,11 +30,13 @@ namespace EuphoriaShop.Models
         public virtual DbSet<ProductSize> ProductSizes { get; set; } = null!;
         public virtual DbSet<Role> Roles { get; set; } = null!;
         public virtual DbSet<Size> Sizes { get; set; } = null!;
+        public virtual DbSet<Statistic> Statistics { get; set; } = null!;
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             if (!optionsBuilder.IsConfigured)
             {
+#warning To protect potentially sensitive information in your connection string, you should move it out of source code. You can avoid scaffolding the connection string by using the Name= syntax to read it from configuration - see https://go.microsoft.com/fwlink/?linkid=2131148. For more guidance on storing connection strings, see http://go.microsoft.com/fwlink/?LinkId=723263.
                 optionsBuilder.UseSqlServer("Data Source=MSI\\SQLEXPRESS;Initial Catalog=Shopping;Integrated Security=True;TrustServerCertificate=False");
             }
         }
@@ -74,7 +76,7 @@ namespace EuphoriaShop.Models
             {
                 entity.ToTable("Account");
 
-                entity.HasIndex(e => e.Username, "UQ__Account__F3DBC572A78B87BE")
+                entity.HasIndex(e => e.Username, "UQ__Account__F3DBC5729C7C5CE7")
                     .IsUnique();
 
                 entity.Property(e => e.AccountId)
@@ -329,6 +331,12 @@ namespace EuphoriaShop.Models
                     .HasColumnName("short_description");
 
                 entity.Property(e => e.Weight).HasColumnName("weight");
+
+                entity.HasOne(d => d.Category)
+                    .WithMany(p => p.Products)
+                    .HasForeignKey(d => d.CategoryId)
+                    .OnDelete(DeleteBehavior.ClientSetNull)
+                    .HasConstraintName("fk_Prod");
             });
 
             modelBuilder.Entity<ProductImage>(entity =>
@@ -347,6 +355,12 @@ namespace EuphoriaShop.Models
                 entity.Property(e => e.ProductimgUrl)
                     .HasMaxLength(64)
                     .HasColumnName("productimg_url");
+
+                entity.HasOne(d => d.Product)
+                    .WithMany(p => p.ProductImages)
+                    .HasForeignKey(d => d.ProductId)
+                    .OnDelete(DeleteBehavior.ClientSetNull)
+                    .HasConstraintName("fk_ProImage");
             });
 
             modelBuilder.Entity<ProductOrder>(entity =>
@@ -364,6 +378,18 @@ namespace EuphoriaShop.Models
                 entity.Property(e => e.ProductId).HasColumnName("product_id");
 
                 entity.Property(e => e.Quantity).HasColumnName("quantity");
+
+                entity.HasOne(d => d.Order)
+                    .WithMany(p => p.ProductOrders)
+                    .HasForeignKey(d => d.OrderId)
+                    .OnDelete(DeleteBehavior.ClientSetNull)
+                    .HasConstraintName("fk_ProdO");
+
+                entity.HasOne(d => d.Product)
+                    .WithMany(p => p.ProductOrders)
+                    .HasForeignKey(d => d.ProductId)
+                    .OnDelete(DeleteBehavior.ClientSetNull)
+                    .HasConstraintName("fk_ProdOrder");
             });
 
             modelBuilder.Entity<ProductSize>(entity =>
@@ -381,6 +407,12 @@ namespace EuphoriaShop.Models
                 entity.Property(e => e.Quantity).HasColumnName("quantity");
 
                 entity.Property(e => e.SizeId).HasColumnName("size_id");
+
+                entity.HasOne(d => d.Product)
+                    .WithMany(p => p.ProductSizes)
+                    .HasForeignKey(d => d.ProductId)
+                    .OnDelete(DeleteBehavior.ClientSetNull)
+                    .HasConstraintName("fk_ProdSize");
             });
 
             modelBuilder.Entity<Role>(entity =>
@@ -407,6 +439,16 @@ namespace EuphoriaShop.Models
                 entity.Property(e => e.SizeName)
                     .HasMaxLength(255)
                     .HasColumnName("size_name");
+            });
+
+            modelBuilder.Entity<Statistic>(entity =>
+            {
+                entity.HasKey(e => e.StatId)
+                    .HasName("PK__Statisti__3A162D3E0B335D5E");
+
+                entity.ToTable("Statistic");
+
+                entity.Property(e => e.Year).HasColumnType("int");
             });
 
             OnModelCreatingPartial(modelBuilder);
