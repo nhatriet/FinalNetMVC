@@ -40,11 +40,6 @@ namespace EuphoriaShop.Controllers
              (x => x.CategoryId == maloai).OrderBy(x => x.ProductName).ToList();
             return View(lstsanpham);
         }
-        /*public IActionResult About()
-        {
-            List<About> lstabout = db.About.ToList();
-            return View(lstabout);
-        }*/
         public IActionResult ChiTietSanPham(int maSp)
         {
             var sanPham = db.Products.SingleOrDefault(x => x.ProductId == maSp);
