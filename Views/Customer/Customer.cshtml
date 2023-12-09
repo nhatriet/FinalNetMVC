@@ -1,0 +1,50 @@
+﻿@model EuphoriaShop.Models.Customer
+
+@{
+    ViewData["Title"] = "profile";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="container">
+     <div class="shadow-sm p-3 mb-5 bg-body rounded">
+        <div  class="white-space-nowrap text-dark text-center">
+        <h1>User Profile</h1>
+        <p> Chào mừng @Model.FirstName </p>
+        </div>
+        <main class="tw-account-content-height  " id="main">
+              <section class="py-6 tw-content-height">
+                   <div class="woocommerce"><div class="woocommerce-MyAccount-content">
+          <div class="woocommerce-notices-wrapper"></div><div class="d-flex align-items-center mb-5">
+		        <img src="https://secure.gravatar.com/avatar/254ebc53b37b40bd3df3c127f7132392?s=96&amp;d=mm&amp;r=g" data-src="https://secure.gravatar.com/avatar/254ebc53b37b40bd3df3c127f7132392?s=96&amp;d=mm&amp;r=g" alt="" width="60" class="me-3 rounded-circle lazy loaded" data-was-processed="true">
+		        <div class="flex-1">
+			        <h5 class="mb-0 fw-bold text-900">
+				        <span class="fs-0 text-700 fw-normal">
+					        @Model.FirstName
+                            @Model.LastName
+				        </span>
+			        </h5>
+			        <p class="mb-0" >@Model.Email </p>
+			
+		        </div>
+	        </div>
+	        <div class="table-responsive">
+                <table class="table table-striped fs--1 border-top border-200 mb-0 woocommerce-table woocommerce-table--order-downloads shop_table shop_table_responsive order_details tw-table">
+                       <thead>
+                    <tr>
+         
+                <th class="white-space-nowrap text-dark download-order "><span class="nobr">Order</span></th>
+         
+                <th class="white-space-nowrap text-dark download-product "><span class="nobr">Product</span></th>
+         
+                <th class="white-space-nowrap text-dark download-date "><span class="nobr">Date</span></th>
+         
+                <th class="white-space-nowrap text-dark download-file text-end"><span class="nobr">Re-Download</span></th>
+                      </tr>
+                     </thead>
+  
+              </table>
+            </div>
+              </section>
+        </main>
+       </div>
+     </div>
