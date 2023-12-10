@@ -1,4 +1,5 @@
-﻿using System;
+﻿using EuphoriaShop.Controllers;
+using System;
 using System.Collections.Generic;
 
 namespace EuphoriaShop.Models
@@ -16,5 +17,6 @@ namespace EuphoriaShop.Models
         public double? Weight { get; set; }
         public string? Dimensions { get; set; }
         public string? Materials { get; set; }
+        public virtual ICollection<Comment> Comments { get; set; }
     }
 }

@@ -2,14 +2,15 @@
   "ExpandedNodes": [
     "",
     "\\Controllers",
-    "\\Models",
-    "\\ViewComponents",
     "\\Views",
     "\\Views\\About",
     "\\Views\\Contact",
     "\\Views\\Home",
-    "\\Views\\Shared"
+    "\\Views\\Shared",
+    "\\wwwroot",
+    "\\wwwroot\\1Layout",
+    "\\wwwroot\\1Layout\\css"
   ],
-  "SelectedNode": "\\Controllers\\HomeController.cs",
+  "SelectedNode": "\\Controllers\\CustomerController.cs",
   "PreviewInSolutionExplorer": false
 }

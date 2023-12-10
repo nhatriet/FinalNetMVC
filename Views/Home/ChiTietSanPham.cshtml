@@ -109,4 +109,88 @@
         </div>
     </div>
 </section>
+                                                        <!-- COMMENT-->
 
+
+@*<!-- Hiển thị danh sách bình luận -->
+@if (Model.Comments != null && Model.Comments.Any())
+{
+    <div class="comments-container">
+        <h3>Comments</h3>
+        <ul class="comment-list">
+            @foreach (var comment in Model.Comments)
+            {
+                <li class="comment">
+                    <div class="comment-header">
+                        <span class="comment-user">@comment.UserName</span>
+                        <span class="comment-date">@comment.CreatedAt.ToString("yyyy-MM-dd HH:mm:ss")</span>
+                    </div>
+                    <div class="comment-content">@comment.Content</div>
+                </li>
+            }
+        </ul>
+    </div>
+}*@
+
+<!-- Form để thêm bình luận mới -->
+<div class="container light-style flex-grow-1 container-p-y">
+        <h4 class="font-weight-bold py-3 mb-4">
+            Thêm bình luận
+        </h4>
+    <div class="card overflow-hidden">
+        
+            <div class="add-comment-container">
+   @* <form id="addCommentForm">*@
+         <input type="hidden" id="productId" value="@Model.ProductId" />
+                 <div class="card-body">
+                 <div class="form-group">
+                 <label class="form-label">Tên đăng nhập</label>
+                  <input type="text" id="userName" class="form-control mb-1">
+                  </div>
+                  <div class="form-group">
+                   <label class="form-label" for="commentContent">Comment: </label>
+                   <input type="text" id="commentContent" class="form-control">
+                   </div>
+                   </div>
+                 <div class="text-right">
+                 <button type="submit" id="submitCommentBtn" class="btn btn-success">Submit Comment</button>
+                 </div>
+   @* </form>*@
+            </div>
+    </div>
+</div>
+@*
+    <script>
+    //Thông báo thành công
+    <div id="successMessage" class="alert alert-success" style="display:none;">
+        Comment added successfully!
+    </div>
+    // Gửi yêu cầu thêm bình luận khi người dùng nhấn nút
+    $("#submitCommentBtn").click(function () {
+        var productId = $("#productId").val();
+        var userName = $("#userName").val();
+        var content = $("#commentContent").val();
+
+        $.ajax({
+            type: "POST",
+            url: "/Product/AddComment",
+            data: { productId: productId, userName: userName, content: content },
+            success: function () {
+                <div id="successMessage" class="alert alert-success" style="display:none;">
+                    Comment added successfully!
+                </div>
+                $("#comment-list-container").load("/Product/GetComments?productId=" + productId);
+                // Hiển thị thông báo
+                $("#successMessage").fadeIn(1000);
+
+                // Ẩn thông báo sau một khoảng thời gian
+                setTimeout(function () {
+                    $("#successMessage").fadeOut(1000);
+                }, 3000);
+
+            }
+        });
+    });
+   
+    </script>
+*@

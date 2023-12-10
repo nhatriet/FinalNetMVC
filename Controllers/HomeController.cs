@@ -59,8 +59,25 @@ namespace EuphoriaShop.Controllers
             ViewBag.anhSanPham = anhSanPham;
             return View(sanPham);
         }
+       /* public IActionResult AddComment(int productId, string userName, string content)
+        {
+            // Tạo một đối tượng Comment mới
+            var newComment = new Comment
+            {
+                ProductId = productId,
+                UserName = userName,
+                Content = content,
+                CreatedAt = DateTime.Now
+            };
 
-    public IActionResult Privacy()
+           *//* // Lưu bình luận vào cơ sở dữ liệu
+            ShoppingContext.Comments.Add(newComment);
+            ShoppingContext.SaveChanges();*//*
+
+            // Chuyển hướng về trang chi tiết sản phẩm
+            return RedirectToAction("ChiTietSanPham");
+        }*/
+        public IActionResult Privacy()
         {
             return View();
         }
