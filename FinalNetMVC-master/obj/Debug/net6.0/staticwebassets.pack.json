@@ -1,0 +1,1209 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\EuphoriaShop.bundle.scp.css",
+      "PackagePath": "staticwebassets\\EuphoriaShop.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\1Layout\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\1Layout\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\1Layout\\css\\elegant-icons.css",
+      "PackagePath": "staticwebassets\\1Layout\\css\\elegant-icons.css"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\1Layout\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\1Layout\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\1Layout\\css\\jquery-ui.min.css",
+      "PackagePath": "staticwebassets\\1Layout\\css\\jquery-ui.min.css"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\1Layout\\css\\nice-select.css",
+      "PackagePath": "staticwebassets\\1Layout\\css\\nice-select.css"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\1Layout\\css\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\1Layout\\css\\owl.carousel.min.css"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\1Layout\\css\\slicknav.min.css",
+      "PackagePath": "staticwebassets\\1Layout\\css\\slicknav.min.css"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\1Layout\\css\\style.css",
+      "PackagePath": "staticwebassets\\1Layout\\css\\style.css"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\1Layout\\fonts\\ElegantIcons.eot",
+      "PackagePath": "staticwebassets\\1Layout\\fonts\\ElegantIcons.eot"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\1Layout\\fonts\\ElegantIcons.svg",
+      "PackagePath": "staticwebassets\\1Layout\\fonts\\ElegantIcons.svg"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\1Layout\\fonts\\ElegantIcons.ttf",
+      "PackagePath": "staticwebassets\\1Layout\\fonts\\ElegantIcons.ttf"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\1Layout\\fonts\\ElegantIcons.woff",
+      "PackagePath": "staticwebassets\\1Layout\\fonts\\ElegantIcons.woff"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\1Layout\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\1Layout\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\1Layout\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\1Layout\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\1Layout\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\1Layout\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\1Layout\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\1Layout\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\1Layout\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\1Layout\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\1Layout\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\1Layout\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\1Layout\\img\\blog\\blog-1.jpg",
+      "PackagePath": "staticwebassets\\1Layout\\img\\blog\\blog-1.jpg"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\1Layout\\img\\blog\\blog-2.jpg",
+      "PackagePath": "staticwebassets\\1Layout\\img\\blog\\blog-2.jpg"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\1Layout\\img\\blog\\blog-3.jpg",
+      "PackagePath": "staticwebassets\\1Layout\\img\\blog\\blog-3.jpg"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\1Layout\\img\\blog\\blog-4.jpg",
+      "PackagePath": "staticwebassets\\1Layout\\img\\blog\\blog-4.jpg"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\1Layout\\img\\blog\\blog-5.jpg",
+      "PackagePath": "staticwebassets\\1Layout\\img\\blog\\blog-5.jpg"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\1Layout\\img\\blog\\blog-6.jpg",
+      "PackagePath": "staticwebassets\\1Layout\\img\\blog\\blog-6.jpg"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\1Layout\\img\\blog\\details\\details-author.jpg",
+      "PackagePath": "staticwebassets\\1Layout\\img\\blog\\details\\details-author.jpg"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\1Layout\\img\\blog\\details\\details-hero.jpg",
+      "PackagePath": "staticwebassets\\1Layout\\img\\blog\\details\\details-hero.jpg"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\1Layout\\img\\blog\\details\\details-pic.jpg",
+      "PackagePath": "staticwebassets\\1Layout\\img\\blog\\details\\details-pic.jpg"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\1Layout\\img\\blog\\sidebar\\sr-1.jpg",
+      "PackagePath": "staticwebassets\\1Layout\\img\\blog\\sidebar\\sr-1.jpg"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\1Layout\\img\\blog\\sidebar\\sr-2.jpg",
+      "PackagePath": "staticwebassets\\1Layout\\img\\blog\\sidebar\\sr-2.jpg"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\1Layout\\img\\blog\\sidebar\\sr-3.jpg",
+      "PackagePath": "staticwebassets\\1Layout\\img\\blog\\sidebar\\sr-3.jpg"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\1Layout\\img\\breadcrumb.jpg",
+      "PackagePath": "staticwebassets\\1Layout\\img\\breadcrumb.jpg"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\1Layout\\img\\cart\\cart-1.jpg",
+      "PackagePath": "staticwebassets\\1Layout\\img\\cart\\cart-1.jpg"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\1Layout\\img\\cart\\cart-2.jpg",
+      "PackagePath": "staticwebassets\\1Layout\\img\\cart\\cart-2.jpg"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\1Layout\\img\\cart\\cart-3.jpg",
+      "PackagePath": "staticwebassets\\1Layout\\img\\cart\\cart-3.jpg"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\1Layout\\img\\featured\\feature-1.jpg",
+      "PackagePath": "staticwebassets\\1Layout\\img\\featured\\feature-1.jpg"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\1Layout\\img\\featured\\feature-2.jpg",
+      "PackagePath": "staticwebassets\\1Layout\\img\\featured\\feature-2.jpg"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\1Layout\\img\\featured\\feature-3.jpg",
+      "PackagePath": "staticwebassets\\1Layout\\img\\featured\\feature-3.jpg"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\1Layout\\img\\featured\\feature-4.jpg",
+      "PackagePath": "staticwebassets\\1Layout\\img\\featured\\feature-4.jpg"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\1Layout\\img\\featured\\feature-5.jpg",
+      "PackagePath": "staticwebassets\\1Layout\\img\\featured\\feature-5.jpg"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\1Layout\\img\\featured\\feature-6.jpg",
+      "PackagePath": "staticwebassets\\1Layout\\img\\featured\\feature-6.jpg"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\1Layout\\img\\featured\\feature-7.jpg",
+      "PackagePath": "staticwebassets\\1Layout\\img\\featured\\feature-7.jpg"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\1Layout\\img\\featured\\feature-8.jpg",
+      "PackagePath": "staticwebassets\\1Layout\\img\\featured\\feature-8.jpg"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\1Layout\\img\\latest-product\\lp-1.jpg",
+      "PackagePath": "staticwebassets\\1Layout\\img\\latest-product\\lp-1.jpg"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\1Layout\\img\\latest-product\\lp-2.jpg",
+      "PackagePath": "staticwebassets\\1Layout\\img\\latest-product\\lp-2.jpg"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\1Layout\\img\\latest-product\\lp-3.jpg",
+      "PackagePath": "staticwebassets\\1Layout\\img\\latest-product\\lp-3.jpg"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\1Layout\\img\\product\\details\\product-details-1.jpg",
+      "PackagePath": "staticwebassets\\1Layout\\img\\product\\details\\product-details-1.jpg"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\1Layout\\img\\product\\details\\product-details-2.jpg",
+      "PackagePath": "staticwebassets\\1Layout\\img\\product\\details\\product-details-2.jpg"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\1Layout\\img\\product\\details\\product-details-3.jpg",
+      "PackagePath": "staticwebassets\\1Layout\\img\\product\\details\\product-details-3.jpg"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\1Layout\\img\\product\\details\\product-details-4.jpg",
+      "PackagePath": "staticwebassets\\1Layout\\img\\product\\details\\product-details-4.jpg"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\1Layout\\img\\product\\details\\product-details-5.jpg",
+      "PackagePath": "staticwebassets\\1Layout\\img\\product\\details\\product-details-5.jpg"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\1Layout\\img\\product\\details\\thumb-1.jpg",
+      "PackagePath": "staticwebassets\\1Layout\\img\\product\\details\\thumb-1.jpg"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\1Layout\\img\\product\\details\\thumb-2.jpg",
+      "PackagePath": "staticwebassets\\1Layout\\img\\product\\details\\thumb-2.jpg"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\1Layout\\img\\product\\details\\thumb-3.jpg",
+      "PackagePath": "staticwebassets\\1Layout\\img\\product\\details\\thumb-3.jpg"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\1Layout\\img\\product\\details\\thumb-4.jpg",
+      "PackagePath": "staticwebassets\\1Layout\\img\\product\\details\\thumb-4.jpg"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\1Layout\\img\\product\\discount\\pd-1.jpg",
+      "PackagePath": "staticwebassets\\1Layout\\img\\product\\discount\\pd-1.jpg"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\1Layout\\img\\product\\discount\\pd-2.jpg",
+      "PackagePath": "staticwebassets\\1Layout\\img\\product\\discount\\pd-2.jpg"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\1Layout\\img\\product\\discount\\pd-3.jpg",
+      "PackagePath": "staticwebassets\\1Layout\\img\\product\\discount\\pd-3.jpg"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\1Layout\\img\\product\\discount\\pd-4.jpg",
+      "PackagePath": "staticwebassets\\1Layout\\img\\product\\discount\\pd-4.jpg"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\1Layout\\img\\product\\discount\\pd-5.jpg",
+      "PackagePath": "staticwebassets\\1Layout\\img\\product\\discount\\pd-5.jpg"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\1Layout\\img\\product\\discount\\pd-6.jpg",
+      "PackagePath": "staticwebassets\\1Layout\\img\\product\\discount\\pd-6.jpg"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\1Layout\\img\\product\\product-1.jpg",
+      "PackagePath": "staticwebassets\\1Layout\\img\\product\\product-1.jpg"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\1Layout\\img\\product\\product-10.jpg",
+      "PackagePath": "staticwebassets\\1Layout\\img\\product\\product-10.jpg"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\1Layout\\img\\product\\product-11.jpg",
+      "PackagePath": "staticwebassets\\1Layout\\img\\product\\product-11.jpg"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\1Layout\\img\\product\\product-12.jpg",
+      "PackagePath": "staticwebassets\\1Layout\\img\\product\\product-12.jpg"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\1Layout\\img\\product\\product-2.jpg",
+      "PackagePath": "staticwebassets\\1Layout\\img\\product\\product-2.jpg"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\1Layout\\img\\product\\product-3.jpg",
+      "PackagePath": "staticwebassets\\1Layout\\img\\product\\product-3.jpg"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\1Layout\\img\\product\\product-4.jpg",
+      "PackagePath": "staticwebassets\\1Layout\\img\\product\\product-4.jpg"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\1Layout\\img\\product\\product-5.jpg",
+      "PackagePath": "staticwebassets\\1Layout\\img\\product\\product-5.jpg"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\1Layout\\img\\product\\product-6.jpg",
+      "PackagePath": "staticwebassets\\1Layout\\img\\product\\product-6.jpg"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\1Layout\\img\\product\\product-7.jpg",
+      "PackagePath": "staticwebassets\\1Layout\\img\\product\\product-7.jpg"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\1Layout\\img\\product\\product-8.jpg",
+      "PackagePath": "staticwebassets\\1Layout\\img\\product\\product-8.jpg"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\1Layout\\img\\product\\product-9.jpg",
+      "PackagePath": "staticwebassets\\1Layout\\img\\product\\product-9.jpg"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\1Layout\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\1Layout\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\1Layout\\js\\jquery-3.3.1.min.js",
+      "PackagePath": "staticwebassets\\1Layout\\js\\jquery-3.3.1.min.js"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\1Layout\\js\\jquery-ui.min.js",
+      "PackagePath": "staticwebassets\\1Layout\\js\\jquery-ui.min.js"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\1Layout\\js\\jquery.nice-select.min.js",
+      "PackagePath": "staticwebassets\\1Layout\\js\\jquery.nice-select.min.js"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\1Layout\\js\\jquery.slicknav.js",
+      "PackagePath": "staticwebassets\\1Layout\\js\\jquery.slicknav.js"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\1Layout\\js\\main.js",
+      "PackagePath": "staticwebassets\\1Layout\\js\\main.js"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\1Layout\\js\\mixitup.min.js",
+      "PackagePath": "staticwebassets\\1Layout\\js\\mixitup.min.js"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\1Layout\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\1Layout\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\LayoutAdmin\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\css\\style.css"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\LayoutAdmin\\assets\\css\\style.css.map",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\css\\style.css.map"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.eot",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.eot"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.ttf",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.ttf"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.woff",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.woff"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.woff2",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.woff2"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Light.eot",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Light.eot"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Light.ttf",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Light.ttf"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Light.woff",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Light.woff"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Light.woff2",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Light.woff2"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.eot",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.eot"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.ttf",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.ttf"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.woff",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.woff"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.woff2",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.woff2"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.eot",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.eot"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.ttf",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.ttf"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.woff",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.woff"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.woff2",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.woff2"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\LayoutAdmin\\assets\\images\\dashboard\\circle.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\dashboard\\circle.png"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\LayoutAdmin\\assets\\images\\dashboard\\circle.svg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\dashboard\\circle.svg"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\LayoutAdmin\\assets\\images\\dashboard\\img_1.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\dashboard\\img_1.jpg"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\LayoutAdmin\\assets\\images\\dashboard\\img_2.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\dashboard\\img_2.jpg"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\LayoutAdmin\\assets\\images\\dashboard\\img_3.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\dashboard\\img_3.jpg"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\LayoutAdmin\\assets\\images\\dashboard\\img_4.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\dashboard\\img_4.jpg"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\LayoutAdmin\\assets\\images\\faces-clipart\\pic-1.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces-clipart\\pic-1.png"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\LayoutAdmin\\assets\\images\\faces-clipart\\pic-2.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces-clipart\\pic-2.png"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\LayoutAdmin\\assets\\images\\faces-clipart\\pic-3.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces-clipart\\pic-3.png"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\LayoutAdmin\\assets\\images\\faces-clipart\\pic-4.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces-clipart\\pic-4.png"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face1.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face1.jpg"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face10.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face10.jpg"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face11.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face11.jpg"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face12.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face12.jpg"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face13.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face13.jpg"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face14.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face14.jpg"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face15.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face15.jpg"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face16.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face16.jpg"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face17.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face17.jpg"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face18.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face18.jpg"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face19.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face19.jpg"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face2.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face2.jpg"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face20.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face20.jpg"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face21.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face21.jpg"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face22.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face22.jpg"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face23.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face23.jpg"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face24.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face24.jpg"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face25.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face25.jpg"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face26.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face26.jpg"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face27.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face27.jpg"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face3.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face3.jpg"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face4.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face4.jpg"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face5.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face5.jpg"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face6.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face6.jpg"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face7.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face7.jpg"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face8.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face8.jpg"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face9.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face9.jpg"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\LayoutAdmin\\assets\\images\\favicon.ico",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\favicon.ico"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\LayoutAdmin\\assets\\images\\favicon.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\favicon.png"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\LayoutAdmin\\assets\\images\\logo-mini.svg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\logo-mini.svg"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\LayoutAdmin\\assets\\images\\logo.svg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\logo.svg"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\LayoutAdmin\\assets\\images\\sprites\\blue.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\sprites\\blue.png"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\LayoutAdmin\\assets\\images\\sprites\\dark.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\sprites\\dark.png"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\LayoutAdmin\\assets\\images\\sprites\\flag.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\sprites\\flag.png"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\LayoutAdmin\\assets\\images\\sprites\\green.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\sprites\\green.png"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\LayoutAdmin\\assets\\images\\sprites\\jsgrid-icons.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\sprites\\jsgrid-icons.png"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\LayoutAdmin\\assets\\images\\sprites\\red.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\sprites\\red.png"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\LayoutAdmin\\assets\\images\\sprites\\yellow.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\sprites\\yellow.png"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\LayoutAdmin\\assets\\js\\chart.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\js\\chart.js"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\LayoutAdmin\\assets\\js\\dashboard.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\js\\dashboard.js"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\LayoutAdmin\\assets\\js\\file-upload.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\js\\file-upload.js"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\LayoutAdmin\\assets\\js\\hoverable-collapse.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\js\\hoverable-collapse.js"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\LayoutAdmin\\assets\\js\\jquery.cookie.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\js\\jquery.cookie.js"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\LayoutAdmin\\assets\\js\\misc.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\js\\misc.js"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\LayoutAdmin\\assets\\js\\off-canvas.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\js\\off-canvas.js"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\LayoutAdmin\\assets\\js\\todo.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\js\\todo.js"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\LayoutAdmin\\assets\\js\\todolist.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\js\\todolist.js"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\LayoutAdmin\\assets\\scss\\_dashboard.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_dashboard.scss"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\LayoutAdmin\\assets\\scss\\_demo.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_demo.scss"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\LayoutAdmin\\assets\\scss\\_fonts.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_fonts.scss"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\LayoutAdmin\\assets\\scss\\_footer.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_footer.scss"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\LayoutAdmin\\assets\\scss\\_functions.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_functions.scss"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\LayoutAdmin\\assets\\scss\\_layouts.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_layouts.scss"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\LayoutAdmin\\assets\\scss\\_misc.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_misc.scss"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\LayoutAdmin\\assets\\scss\\_navbar.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_navbar.scss"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\LayoutAdmin\\assets\\scss\\_reset.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_reset.scss"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\LayoutAdmin\\assets\\scss\\_sidebar.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_sidebar.scss"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\LayoutAdmin\\assets\\scss\\_typography.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_typography.scss"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\LayoutAdmin\\assets\\scss\\_utilities.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_utilities.scss"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\LayoutAdmin\\assets\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_variables.scss"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\LayoutAdmin\\assets\\scss\\_vertical-wrapper.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_vertical-wrapper.scss"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\LayoutAdmin\\assets\\scss\\_widget-grid.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_widget-grid.scss"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_badges.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\components\\_badges.scss"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_bootstrap-progress.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\components\\_bootstrap-progress.scss"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_breadcrumbs.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\components\\_breadcrumbs.scss"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_buttons.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\components\\_buttons.scss"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_cards.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\components\\_cards.scss"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_checkbox-radio.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\components\\_checkbox-radio.scss"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\components\\_dropdown.scss"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_forms.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\components\\_forms.scss"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_icons.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\components\\_icons.scss"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_lists.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\components\\_lists.scss"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_preview.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\components\\_preview.scss"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_tables.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\components\\_tables.scss"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_todo-list.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\components\\_todo-list.scss"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\LayoutAdmin\\assets\\scss\\landing-screens\\_auth.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\landing-screens\\_auth.scss"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_animation.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\mixins\\_animation.scss"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_background.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\mixins\\_background.scss"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_badges.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\mixins\\_badges.scss"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_blockqoute.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\mixins\\_blockqoute.scss"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_breadcrumbs.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\mixins\\_breadcrumbs.scss"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_cards.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\mixins\\_cards.scss"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_misc.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\mixins\\_misc.scss"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_popovers.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\mixins\\_popovers.scss"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_text.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\mixins\\_text.scss"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_tooltips.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\mixins\\_tooltips.scss"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\LayoutAdmin\\assets\\scss\\style.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\style.scss"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\LayoutAdmin\\assets\\vendors\\chart.js\\Chart.min.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\vendors\\chart.js\\Chart.min.js"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\LayoutAdmin\\assets\\vendors\\css\\vendor.bundle.base.css",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\vendors\\css\\vendor.bundle.base.css"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\LayoutAdmin\\assets\\vendors\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\vendors\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\LayoutAdmin\\assets\\vendors\\js\\vendor.bundle.base.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\vendors\\js\\vendor.bundle.base.js"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\LayoutAdmin\\assets\\vendors\\mdi\\css\\materialdesignicons.min.css",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\vendors\\mdi\\css\\materialdesignicons.min.css"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\LayoutAdmin\\assets\\vendors\\mdi\\css\\materialdesignicons.min.css.map",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\vendors\\mdi\\css\\materialdesignicons.min.css.map"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\LayoutAdmin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.eot",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.eot"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\LayoutAdmin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.ttf",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.ttf"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\LayoutAdmin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\LayoutAdmin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff2",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff2"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\images\\banner\\banner-1.jpg",
+      "PackagePath": "staticwebassets\\images\\banner\\banner-1.jpg"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\images\\banner\\banner-2.jpg",
+      "PackagePath": "staticwebassets\\images\\banner\\banner-2.jpg"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\images\\banner\\banner.jpg",
+      "PackagePath": "staticwebassets\\images\\banner\\banner.jpg"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\images\\categories\\cat-1.jpg",
+      "PackagePath": "staticwebassets\\images\\categories\\cat-1.jpg"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\images\\categories\\cat-2.jpg",
+      "PackagePath": "staticwebassets\\images\\categories\\cat-2.jpg"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\images\\categories\\cat-3.jpg",
+      "PackagePath": "staticwebassets\\images\\categories\\cat-3.jpg"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\images\\categories\\cat-4.jpg",
+      "PackagePath": "staticwebassets\\images\\categories\\cat-4.jpg"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\images\\categories\\cat-5.jpg",
+      "PackagePath": "staticwebassets\\images\\categories\\cat-5.jpg"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\images\\categories\\cat-6.jpg",
+      "PackagePath": "staticwebassets\\images\\categories\\cat-6.jpg"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\images\\euphoria-logo\\euphoria-logo.png",
+      "PackagePath": "staticwebassets\\images\\euphoria-logo\\euphoria-logo.png"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\images\\product\\10\\hmgoepprod.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\10\\hmgoepprod.jpg"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\images\\product\\11\\0052041802_1_1_1.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\11\\0052041802_1_1_1.jpg"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\images\\product\\12\\3349484c7665963da157549482999e2e.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\12\\3349484c7665963da157549482999e2e.jpg"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\images\\product\\13\\2cb8fba5b7af8b2f937f46dc732738b6.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\13\\2cb8fba5b7af8b2f937f46dc732738b6.jpg"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\images\\product\\14\\619f250fa706ba5d84534515c4d02659.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\14\\619f250fa706ba5d84534515c4d02659.jpg"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\images\\product\\15\\c8d59bbc2249a50b8db92e2c2cbc137f.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\15\\c8d59bbc2249a50b8db92e2c2cbc137f.jpg"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\images\\product\\16\\d45d5314e64cb425f9489b1300bfa472.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\16\\d45d5314e64cb425f9489b1300bfa472.jpg"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\images\\product\\17\\a7c2edd53365a95455113e9745f133aa.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\17\\a7c2edd53365a95455113e9745f133aa.jpg"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\images\\product\\18\\061148dfa1fb2ba3b777de1c5140859e.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\18\\061148dfa1fb2ba3b777de1c5140859e.jpg"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\images\\product\\1\\White-Slyteam-Jacket-Front-1000x1250.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\1\\White-Slyteam-Jacket-Front-1000x1250.jpg"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\images\\product\\2\\Black-Slyteam-Jacket-Back-1000x1250.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\2\\Black-Slyteam-Jacket-Back-1000x1250.jpg"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\images\\product\\3\\doncare-PROM-COLLAGE-JACKET-01.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\3\\doncare-PROM-COLLAGE-JACKET-01.jpg"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\images\\product\\4\\EE1A0D20-A1E4-4A8D-A532-840BB9D6DFF0.png",
+      "PackagePath": "staticwebassets\\images\\product\\4\\EE1A0D20-A1E4-4A8D-A532-840BB9D6DFF0.png"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\images\\product\\5\\83FD173B-87AC-4087-92C1-8E8F0AF0242A.png",
+      "PackagePath": "staticwebassets\\images\\product\\5\\83FD173B-87AC-4087-92C1-8E8F0AF0242A.png"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\images\\product\\6\\3ce9e4f9462ca1a80f9bae7462d2a591.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\6\\3ce9e4f9462ca1a80f9bae7462d2a591.jpg"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\images\\product\\7\\161682917869c354f27b7fc10c9eafec.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\7\\161682917869c354f27b7fc10c9eafec.jpg"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\images\\product\\7\\2_no_res_c96566da25a34b70b3f6a5e145b36d47_master.png",
+      "PackagePath": "staticwebassets\\images\\product\\7\\2_no_res_c96566da25a34b70b3f6a5e145b36d47_master.png"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\images\\product\\8\\4fdbae083275462f9a67224b74ff65ff.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\8\\4fdbae083275462f9a67224b74ff65ff.jpg"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\images\\product\\9\\Layer-1.png",
+      "PackagePath": "staticwebassets\\images\\product\\9\\Layer-1.png"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\SUBJECT\\ASP.NET CORE MVC\\DOANCK_WEBSHOPPING\\FinalNetMVC-master\\FinalNetMVC-master\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.EuphoriaShop.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.EuphoriaShop.props",
+      "PackagePath": "build\\EuphoriaShop.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.EuphoriaShop.props",
+      "PackagePath": "buildMultiTargeting\\EuphoriaShop.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.EuphoriaShop.props",
+      "PackagePath": "buildTransitive\\EuphoriaShop.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
