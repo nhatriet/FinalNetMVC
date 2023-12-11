@@ -48,6 +48,10 @@
 </body>
 </html>*@
 
+@{
+    var httpContext = ViewContext.HttpContext;
+    var username = httpContext.Session.GetString("Username");
+}
 
 <!DOCTYPE html>
 <html lang="zxx">
@@ -163,7 +167,21 @@
                                 <a href="https://www.pinterest.com/nhatriet2412/"><i class="fa fa-pinterest-p"></i></a>
                             </div>
                             <div class="header__top__right__auth">
-                                <a href="#"><i class="fa fa-user"></i> Login</a>
+                                @if (username != null)
+                                {
+                                    <div class="header__top__right__auth">
+                                        <a asp-controller="Customer" asp-action="Customer"><i class="fa fa-user"></i> User Profile</a>
+                                    </div>
+                                    <div class="header__top__right__auth">
+                                        <a asp-controller="Access" asp-action="Logout"><i class="fa fa-user"></i> Logout</a>
+                                    </div>
+                                }
+                                else
+                                {
+                                    <div class="header__top__right__auth">
+                                        <a asp-controller="Access" asp-action="Login"><i class="fa fa-user"></i> Login</a>
+                                    </div>
+                                }
                             </div>
                         </div>
                     </div>
@@ -202,7 +220,7 @@
                                 </ul>
                             </li>
                             <li><a href="./event.html">Event</a></li>
-                            <li><a href="./event.html">About us</a></li>
+                            <li><a href="~/About/About">About us</a></li>
                             <li><a href="~/Contact/Contact">Contact</a></li>
                         </ul>
                     </nav>
@@ -287,17 +305,16 @@
                     <div class="footer__widget">
                         <h6>Useful Links</h6>
                         <ul>
-                            <li><a href="#">About Us</a></li>
-                            <li><a href="#">Secure Shopping</a></li>
-                            <li><a href="#">Delivery infomation</a></li>
-                            <li><a href="#">Privacy Policy</a></li>
-                            <li><a href="#">Our Sitemap</a></li>
+                            <li><a href="~/About/About">About Us</a></li>
+                            <li><a href="../ArticleList/SystemMember.html">System Member</a></li>
+                            <li><a href="../ArticleList/DeliveryInformation.html">Delivery infomation</a></li>
+                            <li><a href="../ArticleList/PrivacyPolicy.html">Privacy Policy</a></li>
                         </ul>
                         <ul>
-                            <li><a href="#">Who We Are</a></li>
-                            <li><a href="#">Our Services</a></li>
-                            <li><a href="#">Contact</a></li>
-                            <li><a href="#">Innovation</a></li>
+                            <li><a href="../ArticleList/ProductPreservation.html">Product preservation</a></li>
+                            <li><a href="../ArticleList/OurShop.html">Our Shop</a></li>
+                            <li><a href="~/Contact/Contact">Contact</a></li>
+                            @*<li><a href="#">Innovation</a></li>*@
                         </ul>
                     </div>
                 </div>

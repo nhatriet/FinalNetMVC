@@ -49,8 +49,31 @@ namespace EuphoriaShop.Controllers
         {
             var sanPham = db.Products.SingleOrDefault(x => x.ProductId == maSp);
             var anhSanPham = db.ProductImages.Where(x => x.ProductId == maSp).ToList();
+            var SizeSanPham = db.ProductSizes.Where(x => x.ProductId == maSp).ToList();
+            List<EuphoriaShop.Models.Size> LSIZE = new List<EuphoriaShop.Models.Size>();
+            foreach (var item in SizeSanPham)
+            {
+                var SizeSP = db.Sizes.FirstOrDefault(c => c.SizeId == item.SizeId);
+                if (SizeSP != null)
+                {
+                    LSIZE.Add(SizeSP);
+                }
+            }
+            ViewBag.size = LSIZE;
+
             ViewBag.anhSanPham = anhSanPham;
             return View(sanPham);
+        }
+
+        [HttpPost]
+        public IActionResult Subscribe(string email)
+        {
+            return RedirectToAction("Success");
+        }
+
+        public IActionResult Success()
+        {
+            return View();
         }
 
         public IActionResult Privacy()
