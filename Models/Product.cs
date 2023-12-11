@@ -12,9 +12,19 @@ namespace EuphoriaShop.Models
         public string? ShortDescription { get; set; }
         public string? Description { get; set; }
         public int? Quantity { get; set; }
-        public double? PricePreview { get; set; }
+        public double PricePreview { get; set; }
         public double? Weight { get; set; }
         public string? Dimensions { get; set; }
         public string? Materials { get; set; }
+        /*        public decimal? DiscountPercent { get; set; } // Phần trăm giảm giá
+              public double CalculateDiscountedPrice()
+               {
+                   double price = PricePreview;
+                   if (DiscountPercent.HasValue && DiscountPercent > 0)
+                   {
+                       price = price - (price * (Convert.ToDouble(DiscountPercent.Value) / 100));
+                   }
+                   return price;
+               }*/
     }
 }

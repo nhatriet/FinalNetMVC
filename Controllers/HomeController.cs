@@ -28,12 +28,18 @@ namespace EuphoriaShop.Controllers
                 {
                     _logger = logger;
                 }*/
-        public IActionResult Index(int? page)
+        /*public IActionResult Index(int? page)
         {
             int pageSize = 8;
             int pageNumber = page == null || page < 0 ? 1 : page.Value;
             var listProduct = db.Products.AsNoTracking().OrderBy(x => x.ProductName);
             PagedList<Product> lst = new PagedList<Product>(listProduct, pageNumber, pageSize);
+
+            return View(listProduct);
+        }*/
+        public IActionResult Index(int? page)
+        {
+            var listProduct = db.Products.ToList();
 
             return View(listProduct);
         }
@@ -50,6 +56,7 @@ namespace EuphoriaShop.Controllers
             var sanPham = db.Products.SingleOrDefault(x => x.ProductId == maSp);
             var anhSanPham = db.ProductImages.Where(x => x.ProductId == maSp).ToList();
             var SizeSanPham = db.ProductSizes.Where(x => x.ProductId == maSp).ToList();
+
             List<EuphoriaShop.Models.Size> LSIZE = new List<EuphoriaShop.Models.Size>();
             foreach (var item in SizeSanPham)
             {

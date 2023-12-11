@@ -6,7 +6,6 @@ namespace EuphoriaShop.Controllers
 {
     public class CustomerController : Controller
     {
-        /*[HttpGet]*/
         private readonly ShoppingContext _context;
 
         public CustomerController(ShoppingContext context)
@@ -15,16 +14,17 @@ namespace EuphoriaShop.Controllers
         }
 
         ShoppingContext db = new ShoppingContext();
+
         public IActionResult Customer()
         {
             var loggedIn = db.Accounts.FirstOrDefault(x => x.Username == HttpContext.Session.GetString("Username"));
             var Khachhang = db.Customers.FirstOrDefault(x => x.AccountId == loggedIn.AccountId);
             Console.WriteLine("Function call" + loggedIn.Username);
-            /*var TenKH = db.Customers.Where(x => x.AccountId == MaKH).ToList();*/
             var KH = db.Customers.Where(x => x.CustomerId == loggedIn.AccountId).ToList();
             ViewBag.KH = KH;
             return View(Khachhang);
         }
+
         [HttpPost]
         [ValidateAntiForgeryToken]
         public IActionResult UpdateCustomer(Customer customer)

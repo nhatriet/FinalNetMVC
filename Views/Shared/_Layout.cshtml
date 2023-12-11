@@ -125,8 +125,8 @@
                         </li>
                     </ul>
                 </li>
-                <li><a href="./event.html">Event</a></li>
-                <li><a href="./event.html">About us</a></li>
+                <li><a href="~/Event/Event">Event</a></li>
+                <li><a href="~/About/About">About us</a></li>
                 <li><a href="~/Contact/Contact">Contact</a></li>
             </ul>
         </nav>
@@ -219,7 +219,7 @@
                                     </li>
                                 </ul>
                             </li>
-                            <li><a href="./event.html">Event</a></li>
+                            <li><a href=".~/Event/Event">Event</a></li>
                             <li><a href="~/About/About">About us</a></li>
                             <li><a href="~/Contact/Contact">Contact</a></li>
                         </ul>
@@ -314,7 +314,6 @@
                             <li><a href="../ArticleList/ProductPreservation.html">Product preservation</a></li>
                             <li><a href="../ArticleList/OurShop.html">Our Shop</a></li>
                             <li><a href="~/Contact/Contact">Contact</a></li>
-                            @*<li><a href="#">Innovation</a></li>*@
                         </ul>
                     </div>
                 </div>
@@ -322,7 +321,7 @@
                     <div class="footer__widget">
                         <h6>Join Our Newsletter Now</h6>
                         <p>Get E-mail updates about our latest shop and special offers.</p>
-                        <form action="#">
+                        <form asp-controller="Home" asp-action="Subscribe" method="post">
                             <input type="text" placeholder="Enter your mail">
                             <button type="submit" class="site-btn">Subscribe</button>
                         </form>

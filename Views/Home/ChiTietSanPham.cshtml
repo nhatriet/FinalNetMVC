@@ -39,7 +39,7 @@
                             </div>
                         </div>
                     </div>
-                    <a href="#" class="primary-btn" style="text-decoration:none">ADD TO CARD</a>
+                    <a asp-action="AddToCart" asp-controller="Cart" asp-route-id="@Model.ProductId" class="primary-btn" style="text-decoration:none">ADD TO CARD</a>
                     <a href="#" class="heart-icon"><span class="icon_heart_alt"></span></a>
                     <ul>
                         <li><b>Weight</b> <span>@Model.Weight</span></li>
