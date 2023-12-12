@@ -1,5 +1,9 @@
-﻿@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
 @addTagHelper *, AuthoringTagHelpers
+@{
+    var httpContext = ViewContext.HttpContext;
+    var username = httpContext.Session.GetString("Username");
+}
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -21,52 +25,50 @@
     <link rel="shortcut icon" href="~/LayoutAdmin/assets/images/favicon.ico" />
 </head>
 <body>
-    <div class="container-scroller">
-        <!-- partial:~/wwwroot/partials/_navbar.html -->
-        <nav class="navbar default-layout-navbar col-lg-12 col-12 p-0 fixed-top d-flex flex-row">
-            <div class="text-center navbar-brand-wrapper d-flex align-items-center justify-content-center">
-                <a class="navbar-brand brand-logo" href="~/wwwroot/index.html"><img src="~/LayoutAdmin/assets/images/logo.svg" alt="logo" /></a>
-                <a class="navbar-brand brand-logo-mini" href="~/wwwroot/index.html"><img src="~/LayoutAdmin/assets/images/logo-mini.svg" alt="logo" /></a>
-            </div>
-            <div class="navbar-menu-wrapper d-flex align-items-stretch">
-                <ul class="navbar-nav navbar-nav-right">
-                    <li class="nav-item nav-profile dropdown">
-                        <a class="nav-link" id="profileDropdown" aria-expanded="false">
-                            <div class="nav-profile-img">
-                                <img src="~/LayoutAdmin/assets/images/faces/face1.jpg" alt="image">
-                                <span class="availability-status online"></span>
-                            </div>
-                            <div class="nav-profile-text">
-                                <p class="mb-1 text-black">David Greymaax</p>
-                            </div>
-                        </a>
+    @if (username != null)
+    {
+        <div class="container-scroller">
+            <!-- partial:~/wwwroot/partials/_navbar.html -->
+            <nav class="navbar default-layout-navbar col-lg-12 col-12 p-0 fixed-top d-flex flex-row">
+                <div class="navbar-menu-wrapper d-flex align-items-stretch">
+                    <ul class="navbar-nav navbar-nav-right">
+                        <li class="nav-item nav-profile dropdown">
+                            <a class="nav-link" id="profileDropdown" aria-expanded="false">
+                                <div class="nav-profile-img">
+                                    <img src="~/LayoutAdmin/assets/images/faces/face1.jpg" alt="image">
+                                    <span class="availability-status online"></span>
+                                </div>
+                                <div class="nav-profile-text">
+                                    <p class="mb-1 text-black">@username</p>
+                                </div>
+                            </a>
 
-                    </li>
-                    <li class="nav-item d-none d-lg-block full-screen-link">
-                        <a class="nav-link">
-                            <i class="mdi mdi-fullscreen" id="fullscreen-button"></i>
-                        </a>
-                    </li>
+                        </li>
+                        <li class="nav-item d-none d-lg-block full-screen-link">
+                            <a class="nav-link">
+                                <i class="mdi mdi-fullscreen" id="fullscreen-button"></i>
+                            </a>
+                        </li>
 
 
-                    <li class="nav-item nav-logout d-none d-lg-block">
-                        <a class="nav-link" href="#">
-                            <i class="mdi mdi-power"></i>
-                        </a>
-                    </li>
+                        <li class="nav-item nav-logout d-none d-lg-block">
+                            <a class="nav-link" asp-action="Logout">
+                                <i class="mdi mdi-power"></i>
+                            </a>
+                        </li>
 
-                </ul>
-                <button class="navbar-toggler navbar-toggler-right d-lg-none align-self-center" type="button" data-toggle="offcanvas">
-                    <span class="mdi mdi-menu"></span>
-                </button>
-            </div>
-        </nav>
-        <!-- partial -->
-        <div class="container-fluid page-body-wrapper">
-            <!-- partial:~/wwwroot/partials/_sidebar.html -->
-            <nav class="sidebar sidebar-offcanvas" id="sidebar">
-                <ul class="nav">
-                    @* <li class="nav-item nav-profile">
+                    </ul>
+                    <button class="navbar-toggler navbar-toggler-right d-lg-none align-self-center" type="button" data-toggle="offcanvas">
+                        <span class="mdi mdi-menu"></span>
+                    </button>
+                </div>
+            </nav>
+            <!-- partial -->
+            <div class="container-fluid page-body-wrapper">
+                <!-- partial:~/wwwroot/partials/_sidebar.html -->
+                <nav class="sidebar sidebar-offcanvas" id="sidebar">
+                    <ul class="nav">
+                        @* <li class="nav-item nav-profile">
                     <a href="#" class="nav-link">
                     <div class="nav-profile-image">
                     <img src="~/LayoutAdmin/assets/images/faces/face1.jpg" alt="profile">
@@ -86,23 +88,23 @@
                     <i class="mdi mdi-home menu-icon"></i>
                     </a>
                     </li> *@
-                    <li class="nav-item">
-                        <a class="nav-link" asp-areas="Admin" asp-controller="HomeAdmin" asp-action="danhmucsanpham">
-                            <span class="menu-title">Quản lý sản phẩm</span>
-                        </a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" asp-action="CategoryProduct">
-                            <span class="menu-title">Quản lý danh mục</span>
-                        </a>
-                    </li>
+                        <li class="nav-item">
+                            <a class="nav-link" asp-areas="Admin" asp-controller="HomeAdmin" asp-action="danhmucsanpham">
+                                <span class="menu-title">Quản lý sản phẩm</span>
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" asp-action="CategoryProduct">
+                                <span class="menu-title">Quản lý danh mục</span>
+                            </a>
+                        </li>
 
-                    <li class="nav-item">
-                        <a class="nav-link" asp-action="ThongKe">
-                            <span class="menu-title">Thống kê</span>
-                        </a>
-                    </li>
-                    @*
+                        <li class="nav-item">
+                            <a class="nav-link" asp-action="ThongKe">
+                                <span class="menu-title">Thống kê</span>
+                            </a>
+                        </li>
+                        @*
                     <li class="nav-item">
                     <a class="nav-link" href="~/wwwroot/pages/charts/chartjs.html">
                     <span class="menu-title">Charts</span>
@@ -148,21 +150,26 @@
                     </div>
                     </span>
                     </li> *@
-                </ul>
-            </nav>
-            <!-- partial -->
-            <div class="main-panel">
-                <div class="content-wrapper">
-                    @RenderBody()
-                </div>
-                <!-- content-wrapper ends -->
-                <!-- partial:~/wwwroot/partials/_footer.html -->
+                    </ul>
+                </nav>
                 <!-- partial -->
+                <div class="main-panel">
+                    <div class="content-wrapper">
+                        @RenderBody()
+                    </div>
+                    <!-- content-wrapper ends -->
+                    <!-- partial:~/wwwroot/partials/_footer.html -->
+                    <!-- partial -->
+                </div>
+                <!-- main-panel ends -->
             </div>
-            <!-- main-panel ends -->
+            <!-- page-body-wrapper ends -->
         </div>
-        <!-- page-body-wrapper ends -->
-    </div>
+    }else
+    {
+        IgnoreBody();
+    }
+
     <!-- container-scroller -->
     <!-- plugins:js -->
     <script src="~/LayoutAdmin/assets/vendors/js/vendor.bundle.base.js"></script>
