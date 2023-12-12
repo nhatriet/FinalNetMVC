@@ -31,6 +31,14 @@ namespace EuphoriaShop.Areas.Admin.Controllers
             PagedList < Product > list = new PagedList<Product>(listSanPham, pageNumber, pageSize);
             return View(list);
         }
+        
+        [Route("Logout")]
+        public IActionResult Logout()
+        {
+            HttpContext.Session.Clear();
+            HttpContext.Session.Remove("Username");
+            return RedirectToAction("Index", "Home");
+        }
 
         //Thêm sản phẩm
         [Route("danhmucsanpham/themsanpham")]
@@ -211,12 +219,10 @@ namespace EuphoriaShop.Areas.Admin.Controllers
         public List<object> GetThongKe()
         {
             List<object> data = new List<object>();
-
             List<int> totalProduct = db.Statistics.Select(x => x.TotalProduct).ToList();
             List<int> year = db.Statistics.Select(x => x.Year).ToList();
             data.Add(year);
             data.Add(totalProduct);
-            
             return data;
         }
     }
